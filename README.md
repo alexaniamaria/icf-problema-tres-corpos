@@ -1,1 +1,1 @@
-# problema-tres-corpos
+# Problema de três corpos - Introdução à computação em física
